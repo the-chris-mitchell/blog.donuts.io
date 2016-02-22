@@ -1,0 +1,5 @@
+[project]
+name = blog.donuts.io
+
+[servers.ghpages]
+target = ghpages+https://eldonuts/blog.donuts.io
